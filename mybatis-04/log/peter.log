@@ -1,0 +1,6 @@
+ãINFOãã21-02-22ããcom.peter.dao.UserMapperTestãinfo: enter log4j method
+ãINFOãã21-02-22ããcom.peter.dao.UserMapperTestãdebug: enter log4j method
+ãERRORãã21-02-22ããcom.peter.dao.UserMapperTestãerror: enter testlog4j method
+[INFO][21-02-22][com.peter.dao.UserMapperTest]info: enter log4j method
+[INFO][21-02-22][com.peter.dao.UserMapperTest]debug: enter log4j method
+[ERROR][21-02-22][com.peter.dao.UserMapperTest]error: enter testlog4j method
